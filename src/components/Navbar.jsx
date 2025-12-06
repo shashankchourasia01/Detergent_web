@@ -7,9 +7,9 @@ const Navbar = () => {
   // Top banner messages that will auto-slide
   const bannerMessages = [
     "🌟 Free Shipping on Orders Above ₹999!",
-    "✨ Special Discount on Bulk Orders - Up to 30% OFF!",
-    "🌿 Eco-Friendly Detergents - Better for Your Clothes & Planet!",
-    "🔥 Limited Time Offer: Buy 2 Get 1 Free on All Products!"
+    "✨ Special Discount on Bulk Orders",
+    "🌿 Eco-Friendly Detergents !",
+    "🔥 Buy 2 Get 1 Free on All Products!"
   ];
 
   // Auto-slide effect for top banner
