@@ -2,7 +2,7 @@ import React from 'react';
 
 const Shop = () => {
   // WhatsApp number for ordering
-  const whatsappNumber = "919876543210"; // Replace with your actual WhatsApp number
+  const whatsappNumber = "919304637399"; 
   
   // Only 3 detergent powder products
   const products = [
